@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringHelloGitApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Test github commit..");
 		SpringApplication.run(SpringHelloGitApplication.class, args);
 	}
 
