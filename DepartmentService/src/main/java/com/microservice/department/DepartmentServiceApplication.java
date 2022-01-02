@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DepartmentServiceApplication {
 
 	public static void main(String[] args) {
-		System.out.println("DepartmentServiceApplication ");
+		System.out.println("DepartmentServiceApplication 2222");
 		SpringApplication.run(DepartmentServiceApplication.class, args);
 	}
 
